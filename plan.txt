@@ -1,0 +1,26 @@
+ovaj bot sam mislio da bude za nas neki server sto bi napravili za nase projekte (botovi, igre, i ti svi programi)
+
+a drugog bota mozemo samo za muziku
+
+#moderator i administrator
+
+    wellcome message - ovo sam salje
+    
+    kick - ovo samo moze admin ili ko ima vec taj permmision
+    ban  - ista stvar ko za ban
+    
+    
+    report - ovo moze svako i za ovo imam posebnu ideju
+    pitanje - da moze da posalje poruku u kanal za pitanja, taj kanal koriste admini
+    staffApply - da se korisnik kandiduje za neki staff role
+
+
+#xp - to tek na kraju kad sve zavrsimo i napravimo baze podataka, kad nadjemo gde i kako da hostujemo
+    
+    userInfo - xp, datum ulazka, ime, slika i teko nesto
+
+#moze i neka mala igra da se napravi u botu
+
+
+DONE:
+     clear - ovo da cisti                                                                                      
